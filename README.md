@@ -1,1 +1,3 @@
 # gdps-hosting
+
+check releases
